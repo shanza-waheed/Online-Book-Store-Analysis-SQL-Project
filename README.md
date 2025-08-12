@@ -1,4 +1,4 @@
-# Book-Store-Analysis-SQL-Project
+# Book-Store-Analysis-using_SQL
 
 ## Project Overview
 This project demonstrates SQL skills in database design, data import/export, and complex query writing with joins, aggregations, and filtering. The queries range from basic retrievals to advanced analytics, providing insights into sales performance and inventory management. It serves as a practical example of how to analyze e-commerce data for business intelligence purposes.
